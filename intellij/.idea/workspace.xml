@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f5271cbb-9150-4e07-8770-50432933e76e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Classificação Idade/.vscode/settings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Classificação Idade/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Classificação Idade/bin/classificacaoIdade.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Classificação Idade/src/classificacaoIdade.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ordena Numeros/.vscode/settings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ordena Numeros/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ordena Numeros/bin/ordenaNumeros.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ordena Numeros/src/ordenaNumeros.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pedido Repetição/.vscode/settings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pedido Repetição/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pedido Repetição/bin/pedidoRepeticao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pedido Repetição/src/pedidoRepeticao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exemploVetor/.vscode/settings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exemploVetor/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exemploVetor/bin/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exemploVetor/src/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../numeroPrimo/.vscode/settings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../numeroPrimo/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../numeroPrimo/bin/numeroPrimo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../numeroPrimo/src/numeroPrimo.java" beforeDir="false" />
-    </list>
+    <list default="true" id="f5271cbb-9150-4e07-8770-50432933e76e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +9,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Q2EJGMPEaA3CjBkgw6bJKP3prJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
