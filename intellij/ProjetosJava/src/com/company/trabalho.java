@@ -92,6 +92,7 @@ public class trabalho {
 
                     //opcao 4
                 case 4:
+                    System.out.println("Digite o índice do elemento que deseja remover do vetor:");
                 int indiceRemover = scanner.nextInt();
 
                 if (vetor[0] == null){
