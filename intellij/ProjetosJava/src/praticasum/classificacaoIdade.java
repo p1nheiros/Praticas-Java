@@ -1,3 +1,5 @@
+package praticasum;
+
 import java.util.Scanner;
 
 public class classificacaoIdade {
@@ -18,7 +20,7 @@ public class classificacaoIdade {
         } else if (idade >= 14 && idade <= 17) {
             System.out.println("Sua classificação é juvenil B");
         } else {
-        System.out.println("Sua classificação é adulto");
+            System.out.println("Sua classificação é adulto");
         }
         scanner.close();
     }

@@ -1,6 +1,6 @@
 /* 4 - Posicione o elemento de menor valor na primeira posição do vetor definido anteriormente. */
 
-package com.company;
+package praticasum;
 
 import java.util.Scanner;
 

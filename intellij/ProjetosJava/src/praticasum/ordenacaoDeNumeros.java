@@ -1,6 +1,10 @@
+/* 1 - Leia 5 números inteiros e positivos e os ordene de forma crescente. */
+
+package praticasum;
+
 import java.util.Scanner;
 
-public class ordenaNumeros {
+public class ordenacaoDeNumeros {
 
     public static void main(String[] args) {
         int n1, n2, n3, n4, n5, aux;

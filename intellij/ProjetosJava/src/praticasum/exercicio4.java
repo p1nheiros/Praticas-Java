@@ -1,4 +1,4 @@
-package com.company;
+package praticasum;
 
 import java.util.Scanner;
 

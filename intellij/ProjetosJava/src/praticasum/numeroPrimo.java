@@ -1,6 +1,6 @@
 /* 2 - Leia um número inteiro e positivo e verifique se ele é primo ou não. */
 
-package com.company;
+package praticasum;
 
 import java.util.Scanner;
 
